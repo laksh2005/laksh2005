@@ -6,9 +6,9 @@ I'm part of the college's best-known clubs and have also contributed to many tec
 
 
 
-- 🔭 I’m currently working on Front-End Web Development
-- 🌱 I’m currently learning Problem Solving
-- 👯 I’m looking to collaborate on various projects with people with a common field of interest!
-- 📫 How to reach me: https://www.linkedin.com/in/laksh-nijhawan-576888280/
+- 🔭 Currently working on Front-End Web Development
+- 🌱 Learning Problem Solving via various Algorithms
+- 👯 Looking to collaborate on various projects with people with a common field of interest!
+- 📫 Reach me: https://www.linkedin.com/in/laksh-nijhawan-576888280/
 
 
