@@ -6,7 +6,8 @@
 
 
 
-- 🔭 Currently working on Front-End Web Development
+- 🔭 Currently working on Web Development & Data Structures and Algorithms
+- 💻 Experienced in React JS, Redux, Tailwind CSS, GSAP and working with live APIs.
 - 🌱 Learning Problem Solving via various Algorithms
 - 👯 Looking to collaborate on various projects with people with a common field of interest!
 - 📫 Reach me: https://www.linkedin.com/in/laksh-nijhawan-576888280/
