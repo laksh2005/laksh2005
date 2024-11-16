@@ -1,6 +1,15 @@
 <h1 align="center">Hi 👋, I'm Laksh Nijhawan</h1>
 <h3 align="center">🚀 Sophomore Engineering Undergraduate | Tech Enthusiast | Full-Stack Web Developer 🎨</h3>
-
+---
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gifhttps://media.giphy.com/media/IpeYSEZshTefe/giphy.gif" alt="Coding Keyboard GIF" width="600"/>
+</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gifhttps://media.giphy.com/media/IpeYSEZshTefe/giphy.gif" alt="Coding Keyboard GIF" width="600"/>
+</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gifhttps://media.giphy.com/media/IpeYSEZshTefe/giphy.gif" alt="Coding Keyboard GIF" width="600"/>
+</p>
 ---
 
 <p align="center">
