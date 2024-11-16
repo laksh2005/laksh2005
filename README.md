@@ -1,6 +1,5 @@
-<h1 align="center">Hi 👋, I'm Laksh Nijhawan</h1>
-<h3 align="center">🚀 Sophomore Engineering Undergraduate | Tech Enthusiast | Full-Stack Web Developer 🎨</h3>
-
+# Hi 👋, I'm Laksh Nijhawan
+### 🚀 Sophomore Engineering Undergraduate | Tech Enthusiast | Full-Stack Web Developer 🎨
 
 ---
 
@@ -8,20 +7,6 @@
   <img src="https://komarev.com/ghpvc/?username=laksh2005&style=flat-square" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/laksh2005?label=Followers&style=flat-square" alt="GitHub Followers"/>
   <img src="https://img.shields.io/badge/Focus-Web%20Development%20%26%20DSA-blueviolet?style=flat-square" alt="Focus"/>
-</p>
-
----
-
-### 👩‍💻 About Me  
-
-- 🎓 **B.Tech in Artificial Intelligence & Data Science** (2023-2027) at ADGIPS, GGSIPU, with a current CGPA of 8.2.  
-- 🌱 Currently diving into **Problem Solving and Advanced Data Structures & Algorithms**.  
-- 💼 **Google Developer Group** (Technical Team Member) & **GeeksforGeeks ADGIPS Chapter** (Marketing & Management).  
-- 🤝 Looking to collaborate on innovative projects in **Web Development** and **AI-driven platforms**.  
-- ✨ Passionate about connecting with developers and exploring cutting-edge technologies.  
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Coding Keyboard GIF" width="600"/>
 </p>
 
 ---
@@ -48,6 +33,20 @@
 - Attended events like **GDSC WOW**, **speaker sessions**, and **conferences**.  
 - Participated in **5 hackathons**, reaching the **semi-finals in two** of them.  
 - Part of **Google Arcade 2024** and **Google Study Jam 2024**.  
+
+---
+
+### 👩‍💻 About Me  
+
+- 🎓 **B.Tech in Artificial Intelligence & Data Science** (2023-2027) at ADGIPS, GGSIPU, with a current CGPA of 8.2.  
+- 🌱 Currently diving into **Problem Solving and Advanced Data Structures & Algorithms**.  
+- 💼 **Google Developer Group** (Technical Team Member) & **GeeksforGeeks ADGIPS Chapter** (Marketing & Management).  
+- 🤝 Looking to collaborate on innovative projects in **Web Development** and **AI-driven platforms**.  
+- ✨ Passionate about connecting with developers and exploring cutting-edge technologies.  
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Coding Keyboard GIF" width="600"/>
+</p>
 
 ---
 
@@ -79,6 +78,7 @@
 ---
 
 💡 **"Code is not just what you write; it's what you leave for the world to learn, improve, and grow."** ✨
+
 
 
   
