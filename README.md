@@ -1,8 +1,5 @@
-<p align="center">
-  <h1>
-    This is Laksh Nijhawan
-  </h1>
-</p>
+<h3 align="center">Hi 👋, I'm Laksh Nijhawan</h3>
+
 
 ### Sophomore Engineering Undergraduate 🎓 | Tech Enthusiast ⚙️ | Full-Stack Web Developer 💻
 
