@@ -1,4 +1,4 @@
-<h3 align="center">Hi 👋, I'm Laksh Nijhawan</h3>
+<h1 align="center">Hi 👋, I'm Laksh Nijhawan</h1>
 
 
 ### Sophomore Engineering Undergraduate 🎓 | Tech Enthusiast ⚙️ | Full-Stack Web Developer 💻
