@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Laksh Nijhawan</h1>
 
-<h2 align="center"> 
-### Sophomore Engineering Undergraduate 🎓 | Tech Enthusiast ⚙️ | Full-Stack Web Developer 💻 </h2>
+### Sophomore Engineering Undergraduate 🎓 | Tech Enthusiast ⚙️ | Full-Stack Web Developer 💻 
 
 ---
 
