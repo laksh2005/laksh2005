@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm Laksh Nijhawan</h1>
-
-### Sophomore Engineering Undergraduate 🎓 | Tech Enthusiast ⚙️ | Full-Stack Web Developer 💻 
-
+<h1 align="center">
+  Sophomore Engineering Undergraduate 🎓 |Full-Stack Web Developer 🌐 | C++ Programmer 💻
+</h1>
 ---
 
 <p align="center">
@@ -33,26 +32,6 @@
 
 ---
 
-### 🏆 Achievements  
-
-- Contributor to **SWOC 5.0**, **GSSoC '24 Ext.** 🌟  
-- Organized tech events for **Google Developer Group** and **GeeksforGeeks ADGIPS Chapter**, engaging 2,300+ students.  
-- Attended events like **GDSC WOW**, **speaker sessions**, and **conferences**.  
-- Participated in **5 hackathons**, reaching the **semi-finals in two** of them.  
-- Part of **Google Arcade 2024** and **Google Study Jam 2024**.  
-
----
-
-### 👩‍💻 About Me  
-
-- 🎓 **B.Tech in Artificial Intelligence & Data Science** (2023-2027) at ADGIPS, GGSIPU, with a current CGPA of 8.2.  
-- 🌱 Currently diving into **Problem Solving and Advanced Data Structures & Algorithms**.  
-- 💼 **Google Developer Group** (Technical Team Member) & **GeeksforGeeks ADGIPS Chapter** (Marketing & Management).  
-- 🤝 Looking to collaborate on innovative projects in **Web Development** and **AI-driven platforms**.  
-- ✨ Passionate about connecting with developers and exploring cutting-edge technologies.  
-
----
-
 ### 📬 Connect with Me!  
 
 <p align="center">
@@ -70,13 +49,26 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=laksh2005&theme=radical" alt="Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=laksh2005&theme=radical&border_radius=10" alt="Streak Stats"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=laksh2005&show_icons=true&theme=radical" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=laksh2005&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=laksh2005&theme=radical&area=true" alt="GitHub Activity Graph"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=laksh2005&theme=radical" alt="GitHub Trophy"/>
+</p>
+
+<p align="center">
+  <img src="https://wakatime.com/badge/laksh2005/abc1234b-12cd-34ef-56gh-7890abcd1234.svg" alt="Wakatime Stats"/>
+</p>
+
 
 ---
 
