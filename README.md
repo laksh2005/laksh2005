@@ -1,7 +1,6 @@
 <h2 align="center">
   <b>Sophomore Engineering Undergraduate 🎓 | Full-Stack Web Developer 🌐 | C++ Programmer 💻</b>
 </h2>
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=laksh2005&style=flat-square" alt="Profile Views"/>
@@ -60,7 +59,7 @@
 
 ---
 
-💡 **"Code is not just what you write; it's what you leave for the world to learn, improve, and grow."** ✨
+<p align="center">💡 <b>"Code is not just what you write; it's what you leave for the world to learn, improve, and grow."</b> ✨ </p>
 
 
 
