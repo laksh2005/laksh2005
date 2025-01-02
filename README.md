@@ -1,6 +1,6 @@
-<h1 align="center">
-  Sophomore Engineering Undergraduate 🎓 |Full-Stack Web Developer 🌐 | C++ Programmer 💻
-</h1>
+<h2 align="center">
+  <b>Sophomore Engineering Undergraduate 🎓 | Full-Stack Web Developer 🌐 | C++ Programmer 💻</b>
+</h2>
 ---
 
 <p align="center">
@@ -58,17 +58,8 @@
 </p>
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=laksh2005&theme=radical&area=true" alt="GitHub Activity Graph"/>
-</p>
-
-<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=laksh2005&theme=radical" alt="GitHub Trophy"/>
 </p>
-
-<p align="center">
-  <img src="https://wakatime.com/badge/laksh2005/abc1234b-12cd-34ef-56gh-7890abcd1234.svg" alt="Wakatime Stats"/>
-</p>
-
 
 ---
 
