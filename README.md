@@ -49,11 +49,8 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=laksh2005&theme=radical&border_radius=10" alt="Streak Stats"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=laksh2005&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  &nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=laksh2005&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
