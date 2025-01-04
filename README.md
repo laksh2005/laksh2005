@@ -1,12 +1,6 @@
-<h2 align="center">
+<h3 align="center">
   <b>Sophomore Engineering Undergraduate 🎓 | Full-Stack Web Developer 🌐 | C++ Programmer 💻</b>
-</h2>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=laksh2005&style=flat-square" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/laksh2005?label=Followers&style=flat-square" alt="GitHub Followers"/>
-  <img src="https://img.shields.io/badge/Focus-Web%20Development%20%26%20DSA-blueviolet?style=flat-square" alt="Focus"/>
-</p>
+</h3>
 
 ---
 
