@@ -1,5 +1,5 @@
 <h3 align="center">
-  🚀 <b>Sophomore Engineering Undergraduate</b>
+  <b>Sophomore Engineering Undergraduate</b>
    <br/><br/>
   📊 <b>Data Science</b> | 💻 <b>Web Development</b> | 👨‍💻 <b>Programming</b>
 </h3>
