@@ -1,5 +1,6 @@
 <h3 align="center">
-  🚀 <b>Sophomore Engineering Undergraduate</b><br/>
+  🚀 <b>Sophomore Engineering Undergraduate</b>
+   <br/><br/>
   📊 <b>Data Science</b> | 💻 <b>Web Development</b> | 👨‍💻 <b>Programming</b>
 </h3>
 
@@ -8,17 +9,12 @@
 ### 💻 Tech Stack
 
 <p align="center">
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/Frontend-React-blue?style=for-the-badge&logo=react" alt="React"/>
-  <img src="https://img.shields.io/badge/Frontend-TailwindCSS-blueviolet?style=for-the-badge&logo=tailwindcss" alt="TailwindCSS"/>
-
-  <!-- Backend -->
-  <img src="https://img.shields.io/badge/Backend-Node.js-green?style=for-the-badge&logo=node.js" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Backend-Express.js-black?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-
-  <!-- Database -->
-  <img src="https://img.shields.io/badge/Database-MongoDB-brightgreen?style=for-the-badge&logo=mongodb" alt="MongoDB"/>
-
+  <img src="https://img.shields.io/badge/React-Frontend-blue?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/TailwindCSS-Frontend-blueviolet?style=for-the-badge&logo=tailwindcss" />
+  <img src="https://img.shields.io/badge/Node.js-Backend-brightgreen?style=for-the-badge&logo=node.js" />
+  <img src="https://img.shields.io/badge/Express.js-Backend-black?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-Database-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  
   <!-- Programming Languages -->
   <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python" alt="Python"/>
   <img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java" alt="Java"/>
