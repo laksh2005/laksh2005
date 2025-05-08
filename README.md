@@ -37,6 +37,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=laksh2005&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
+---
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Coding Keyboard GIF" width="600"/>
+</p>
+
+---
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=laksh2005&theme=radical" alt="GitHub Trophies"/>
 </p>
