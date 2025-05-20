@@ -44,11 +44,6 @@
 </p>
 
 ---
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=laksh2005&theme=radical" alt="GitHub Trophies"/>
-</p>
-
----
 
 ### 📬 Connect with Me
 
