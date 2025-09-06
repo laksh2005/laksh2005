@@ -1,6 +1,6 @@
 <h3 align="center">
   <b>Pre-Final Year Engineering Undergraduate</b>
-  <br/>
+  <br/><br/>
   <b>Data Science</b> | <b>Machine Learning</b> | <b>MERN Stack Developer</b>
 </h3>
 
