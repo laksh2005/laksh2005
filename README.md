@@ -1,7 +1,7 @@
 <h3 align="center">
-  <b>Pre-Final Year Engineering Undergraduate</b>
+  <b>Final Year Engineering Undergraduate</b> 
   <br/><br/>
-  <b>AI & ML</b> • <b>Problem Solving</b> • <b>Full-Stack Development</b>
+  <b>Full-Stack Development</b> • <b>Scalable Products</b> • <b>Real-Time Distributed Systems</b>
 </h3>
 
 <p align="center">
