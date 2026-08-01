@@ -6,13 +6,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Product-Focused+Engineer;I+build+end-to-end+systems;Full-Stack+%E2%80%A2+Scalable+Systems" alt="Typing SVG" />
 </a>
 
-<h3>turning ideas into real, usable products</h3>
+<h3>Turning ideas into products people actually use.</h3>
 
 <p>
-  🧑‍💻 currently building tools @ <b>The Times of India</b><br/>
-  🚀 <b>35+</b> products shipped &nbsp;•&nbsp; <b>10+</b> hackathons &nbsp;•&nbsp; <b>CodePersona</b> used by 5K+ devs across 95 countries<br/>
-  💼 previously @ <b>IAmMaturity</b> &amp; <b>WriteCream</b> &nbsp;•&nbsp; Final Year Engineering Undergraduate<br/>
-  📄 open to full-time, internship, and freelance opportunities
+  🎓 Final year engineering &nbsp;•&nbsp; 💼 Prev @ <b>The Times of India</b><br/>
+   35+ products shipped, incl. <b>CodePersona</b> (5K+ users, 95 countries) &nbsp;•&nbsp; 10+ hackathons<br/>
+   open to full-time / internship / freelance
 </p>
 
 <p>
