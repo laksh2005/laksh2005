@@ -19,8 +19,8 @@
   <a href="https://linkedin.com/in/laksh-nijhawan-576888280/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://x.com/laksh_2705"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="https://laksh1.me"><img src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://drive.google.com/file/d/1mAy2AfE7nnZt8bbP2IPXuqO__tMPM1xn/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-34A853?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
   <a href="https://codepersona.app/laksh2005"><img src="https://img.shields.io/badge/CodePersona-8B5CF6?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://drive.google.com/file/d/1yh_i07AzMMlhSV9mQ5PH6_n7nvYpVAs3/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-34A853?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
 </p>
 
 </div>
