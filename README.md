@@ -10,7 +10,7 @@
 
 <p>
   🎓 Final year engineering &nbsp;•&nbsp; 💼 Prev @ <b>The Times of India</b><br/>
-   35+ products shipped, incl. <b>CodePersona</b> (5K+ users, 95 countries) &nbsp;•&nbsp; 10+ hackathons<br/>
+   40+ products shipped, incl. <b>CodePersona</b> (5K+ users, 95 countries) &nbsp;•&nbsp; 10+ hackathons<br/>
    open to full-time / internship / freelance
 </p>
 
