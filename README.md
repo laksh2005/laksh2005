@@ -1,85 +1,71 @@
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-b47c-32d5fe0522f7.gif" width="900">
+**Software engineer. I take products from zero to production.**
 
 <a href="https://laksh1.me">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Product-Focused+Engineer;I+build+end-to-end+systems;Full-Stack+%E2%80%A2+Scalable+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=520&lines=Backend+and+distributed+systems;TypeScript+%C2%B7+Node.js+%C2%B7+C%2B%2B;40%2B+products+shipped+since+2023;Ship+first%2C+then+measure." alt="Typing SVG" />
 </a>
 
-<h3>Turning ideas into products people actually use.</h3>
+<br/><br/>
 
-<p>
-  🎓 Final year engineering &nbsp;•&nbsp; 💼 Prev @ <b>The Times of India</b><br/>
-   40+ products shipped, incl. <b>CodePersona</b> (5K+ users, 95 countries) &nbsp;•&nbsp; 10+ hackathons<br/>
-   open to full-time / internship / freelance
-</p>
-
-<p>
-  <a href="mailto:lakshnijhawan.work@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/laksh-nijhawan-576888280/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/laksh_2705"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="https://laksh1.me"><img src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://laksh1.me/cv"><img src="https://img.shields.io/badge/Resume-34A853?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
-  <a href="https://codepersona.app/laksh2005"><img src="https://img.shields.io/badge/CodePersona-8B5CF6?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+<a href="mailto:lakshnijhawan.work@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="https://laksh1.me"><img src="https://img.shields.io/badge/Portfolio-38BDF8?style=flat-square&logo=vercel&logoColor=white" /></a>
+<a href="https://linkedin.com/in/laksh-nijhawan-576888280/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="https://x.com/laksh_2705"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" /></a>
+<a href="https://laksh1.me/cv"><img src="https://img.shields.io/badge/Resume-34A853?style=flat-square&logo=googledrive&logoColor=white" /></a>
+<a href="https://laksh1.me/blog"><img src="https://img.shields.io/badge/Blog-FF6B6B?style=flat-square&logo=hashnode&logoColor=white" /></a>
+<a href="https://codepersona.app/laksh2005"><img src="https://img.shields.io/badge/CodePersona-8B5CF6?style=flat-square&logo=github&logoColor=white" /></a>
 
 </div>
 
 <br/>
 
-## Tech Stack
+I build products from a blank repo to something real people use, and I care most about the parts that need to keep working after launch.
+
+Right now I'm a **Product Engineering Intern at Byro**, building memory for an agent-first AI product. Before this, I was at **The Times of India**, where I automated most of the HR review process.
+
+Final year B.Tech in AI and Data Science, based in Delhi. Open to **full-time, internship and freelance** roles.
+
+<br/>
+
+
+### Selected Work
+
+| Project | What it does | Results |
+|:--|:--|:--|
+| [**CodePersona**](https://codepersona.app) | Turns any GitHub profile into a shareable developer story | 5K+ users in 95 countries, zero paid ads |
+| [**Keepr**](https://keepr.website) | A memory you text on WhatsApp. Save anything, ask for it back | 95% intent accuracy, 2 to 3s replies |
+| [**Parity**](https://github.com/laksh2005/parity) | Real-time two-way sync between Google Sheets and MySQL | 52K rows/sec, 99 tests |
+
+<sub>More of the 40+ are in my repos. Full write-ups on <a href="https://laksh1.me">laksh1.me</a>.</sub>
+
+<br/>
+
+### Tech Stack
+
+| | |
+|:--|:--|
+| **Languages** | <img src="https://skillicons.dev/icons?i=cpp,ts,js,py" height="36" /> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,html,css" height="36" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express" height="36" /> &nbsp; ![REST](https://img.shields.io/badge/REST_APIs-005571?style=flat-square) ![WebSockets](https://img.shields.io/badge/WebSockets-3D3D3D?style=flat-square&logo=socketdotio&logoColor=white) |
+| **Data** | <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,supabase" height="36" /> &nbsp; ![BullMQ](https://img.shields.io/badge/BullMQ-DD2C00?style=flat-square) |
+| **AI** | ![Vector Search](https://img.shields.io/badge/MongoDB_Vector_Search-00684A?style=flat-square&logo=mongodb&logoColor=white) ![Embeddings](https://img.shields.io/badge/Embeddings-6E56CF?style=flat-square) ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) |
+| **Testing & DevOps** | <img src="https://skillicons.dev/icons?i=jest,docker,githubactions,aws,vercel,git" height="36" /> &nbsp; ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white) |
+
+<br/>
+
+
+### Experience
+
+| When | Where |
+|:--|:--|
+| `Oct 2026 to Present` | **Byro** · Product Engineering Intern · Remote |
+| `Mar 2026 to Jul 2026` | **The Times of India** · SDE Intern · Noida |
+| `Aug 2025 to Oct 2025` | **IAmMaturity** · Frontend Developer Intern · Remote |
+| `Jan 2025 to Apr 2025` | **WriteCream** · Full Stack Developer Intern · Remote |
+
+<br/>
 
 <div align="center">
-
-**Languages**
-<br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-
-**Frontend**
-<br/>
-<img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-
-**Backend**
-<br/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
-<img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge" />
-<img src="https://img.shields.io/badge/WebSockets-3D3D3D?style=for-the-badge&logo=socketdotio&logoColor=white" />
-
-**Databases & Infra**
-<br/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-<img src="https://img.shields.io/badge/BullMQ-DD2C00?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-
-**AI Integration**
-<br/>
-<img src="https://img.shields.io/badge/MongoDB_Vector_Search-00684A?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Embeddings-6E56CF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Hugging_Face_Inference-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-<img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
-
-**DevOps & Testing**
-<br/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS_EC2-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-
+<sub>I write about what breaks when you ship. <a href="https://laksh1.me/blog">Read the blog</a>.</sub>
 </div>
-<br/>
-
